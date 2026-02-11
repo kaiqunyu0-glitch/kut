@@ -1,3 +1,11 @@
 This document serves to document my repliacation of the paper
-  Feb 11
+
+System Specifications： 
+GPU:rtx 3050 laptop
+CUDA version:13.0 
+Framework: PyTorch with HuggingFace Transformers 
+Dataset: EmpatheticDialogues (40,250 conversation pairs)
+
+Experiment Log：
+  2026-2-11
 I have downloaded the paper and processed the deta,the data processing progress is currently 4%
