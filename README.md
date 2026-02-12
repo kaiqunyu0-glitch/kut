@@ -9,3 +9,5 @@
 * CUDA version:13.0 
 * Framework: PyTorch with HuggingFace Transformers 
 * Dataset: EmpatheticDialogues (40,250 conversation pairs)
+＃＃ Environment and Library
+* Please refer to the original paper for further details on environments and dependencies.
