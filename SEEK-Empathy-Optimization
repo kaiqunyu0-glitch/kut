@@ -1,5 +1,8 @@
 This document serves to document my repliacation of the paper
 
+paper:EmpatheticDialogues (Rashkin et al., 2019)
+GitHub link:https://github.com/wlr737/EMNLP2022-SEEK
+
 System Specifications： 
 GPU:rtx 3050 laptop
 CUDA version:13.0 
