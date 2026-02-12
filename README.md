@@ -5,7 +5,7 @@
 * This dataset is a processed version of EmpatheticDialogues (Rashkin et al., 2019) with commonsense knowledge enriched by COMET (Bosselut et al., 2019).
 
 ## System Specifications： 
-* GPU:rtx 3050 laptop
+* GPU:RTX 3050 laptop
 * CUDA version:13.0 
 * Framework: PyTorch with HuggingFace Transformers 
 * Dataset: EmpatheticDialogues (40,250 conversation pairs)
