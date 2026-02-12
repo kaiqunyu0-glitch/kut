@@ -10,4 +10,4 @@
 * Framework: PyTorch with HuggingFace Transformers 
 * Dataset: EmpatheticDialogues (40,250 conversation pairs)
 ## Environment and Library
-* Please refer to the original paper for further details on environments and dependencies.
+* Please refer to the [original paper](https://arxiv.org/abs/2210.11715) for further details on environments and dependencies.
