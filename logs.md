@@ -3,3 +3,5 @@
 * I have downloaded the paper and processed the deta,the deta processing progress is currently 4%
 ## 2026-2-12
 * Although my laptop shut down due to a power issue,The deta processing is currently 41% and i change code to prevent recurrence.
+## 2026-2-13
+* The deta processing is currently 77%
