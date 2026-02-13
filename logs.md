@@ -5,3 +5,4 @@
 * Although my laptop shut down due to a power issue,The deta processing is currently 41% and i change code to prevent recurrence.
 ## 2026-2-13
 * The deta processing is currently 77%
+* I messed up. I accidentally triggered Ctrl+C, which terminated the process prematurely.
