@@ -6,3 +6,5 @@
 ## 2026-2-13
 * The deta processing is currently 77%
 * I messed up and accidentally terminated the process with Ctrl+C. We are now shifting our training environment to Kaggle to leverage its GPU resources.
+## 2026-2-14
+* I encountered dependency version conflicts while attempting to train a model in a Kaggle environment.
